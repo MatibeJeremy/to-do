@@ -63,10 +63,7 @@ Ensure you have the following installed on your system:
    CREATE DATABASE your_database_name;
    ```
 
-3. Apply the database migrations to set up the tables:
-   ```bash
-   yarn typeorm migration:run
-   ```
+3. Since synchronization is on, the tables should be created when the application runs.
 
 ---
 
