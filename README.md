@@ -48,11 +48,11 @@ Ensure you have the following installed on your system:
    ```env
    NODE_ENV=development
    PORT=3000
-   DATABASE_HOST=localhost
-   DATABASE_PORT=5432
-   DATABASE_USERNAME=your_username
-   DATABASE_PASSWORD=your_password
-   DATABASE_NAME=your_database_name
+   DB_HOST=localhost
+   DB_PORT=5432
+   DB_USERNAME=your_username
+   DB_PASSWORD=your_password
+   DB_NAME=your_database_name
    ```
 
 2. (Optional) Adjust the `PORT` variable if you want the application to run on a different port.
