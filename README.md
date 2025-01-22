@@ -1,7 +1,7 @@
 # Todo API Service
 
 
-![Test Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
+![Test Coverage](https://img.shields.io/badge/coverage-62.22%25-orange)
 
 
 ## Table of Contents
