@@ -1,5 +1,9 @@
 # Todo API Service
 
+
+![Test Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
